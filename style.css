@@ -1,0 +1,9 @@
+a:hover{
+	color:green;
+}
+li:nth-child(odd){
+	color:orange;
+}
+h1{
+	color: red;
+}

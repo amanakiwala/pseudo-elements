@@ -1,5 +1,5 @@
 a:hover{
-	color:green;
+	color:red;
 }
 li:nth-child(odd){
 	color:orange;
@@ -7,3 +7,9 @@ li:nth-child(odd){
 h1{
 	color: red;
 }
+
+h1::after{
+	content:"  \f005";
+}
+
+
